@@ -1,0 +1,16 @@
+[
+  {
+    "filename": "coco_tv_20a1ede3.jpg",
+    "source_url": "http://images.cocodataset.org/train2017/000000000009.jpg",
+    "source": "coco_dataset",
+    "has_tv": true,
+    "category": "tv_detection"
+  },
+  {
+    "filename": "coco_tv_f10df69c.jpg",
+    "source_url": "http://images.cocodataset.org/train2017/000000000025.jpg",
+    "source": "coco_dataset",
+    "has_tv": true,
+    "category": "tv_detection"
+  }
+]

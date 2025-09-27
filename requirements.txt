@@ -4,3 +4,4 @@ selenium
 opencv-python 
 numpy 
 pandas 
+pycocotools
